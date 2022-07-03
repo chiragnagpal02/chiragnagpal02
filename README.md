@@ -1,8 +1,10 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Chirag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag0201/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chirag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag0201/)]
 <!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Chirag-yellow)](https://stackoverflow.com/users/19443743/chirag-nagpal)
+
+
 
 I'm
 Full Stack Solution Architect.
